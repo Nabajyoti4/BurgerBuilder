@@ -1,4 +1,4 @@
-import Aux from "../../hoc/Auxiliary";
+import Aux from "../Auxiliary";
 
 import "./Layout.css";
 
